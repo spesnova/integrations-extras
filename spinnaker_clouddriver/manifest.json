@@ -1,0 +1,12 @@
+{
+  "maintainer": "help@datadoghq.com",
+  "manifest_version": "0.1.0",
+  "max_agent_version": "6.0.0",
+  "min_agent_version": "5.6.3",
+  "name": "spinnaker_clouddriver",
+  "short_description": "spinnaker_clouddriver description.",
+  "guid": "805e85c4-948c-4d4a-8701-9f4901075d81",
+  "support": "contrib",
+  "supported_os": ["linux","mac_os","windows"],
+  "version": "0.1.0"
+}
